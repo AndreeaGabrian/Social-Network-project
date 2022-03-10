@@ -22,10 +22,13 @@ src/main/java/com/example/networkgui/config/DatabaseConnectionCredentials.txt
 with your onw postgres username and password
 
 ## Demo
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/878HlI0UtHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+Click on image to watch a demo
 
-![Alt text](https://github.com/AndreeaGabrian/Social-Network-project/blob/main/HyPhal%20images/wellcomeScreen.jpg?raw=true)
+[![Demo](https://img.youtube.com/vi/878HlI0UtHY/0.jpg)](https://youtu.be/878HlI0UtHY)
+
+
+
+
+
 
 
