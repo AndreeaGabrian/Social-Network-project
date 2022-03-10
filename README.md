@@ -24,7 +24,7 @@ with your onw postgres username and password
 ## Demo
 Click on image to watch a demo
 
-[![Demo](https://img.youtube.com/vi/878HlI0UtHY/0.jpg)](https://www.youtube.com/embed/TggA3WgBg3g)
+[![Demo](https://img.youtube.com/vi/878HlI0UtHY/0.jpg)](https://youtu.be/878HlI0UtHY)
 
 
 
