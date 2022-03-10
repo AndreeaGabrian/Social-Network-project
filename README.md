@@ -8,6 +8,7 @@ Build with Java, JavaFx, CSS and PostgreSQL for data persistency
 Instructions
 
 Backend branch contains backend code project and Frontend contains javafx gui project
+
 Lab4 jar contains the backend project witch need to be included in the gui project
 laborator file: database backup 
 
